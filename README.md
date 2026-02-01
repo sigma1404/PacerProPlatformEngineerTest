@@ -14,7 +14,7 @@ path:"/api/data"
 I assumed to set the Monitor to filter on responseTimeInMs (Milli-seconds) and the path as provided - "/api/data"
 
 
-# A QUICK SUMMARY OF HOW I APPROACHED THE GIVEN TEST
+# A Quick Summary of how I approached the given test
 
 # PART - 1
 
