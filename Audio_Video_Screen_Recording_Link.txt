@@ -1,0 +1,5 @@
+Recorded using the recommended software - zoom desktop app:
+
+Note - I have uploaded the MP4 recording under releases with title(PacerProTest.mp4) in this same repository. It is a full session recording without any pauses and interruptions.
+
+Link - https://github.com/sigma1404/PacerProPlatformEngineerTest/releases/tag/v1.0
