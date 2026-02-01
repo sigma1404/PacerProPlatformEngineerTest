@@ -1,0 +1,7 @@
+# I configured the monitor to filter by responseTimeInMs for the path /api/data
+
+_sourceCategory=LocalApp/Api/Logs
+| json auto nodrop
+| where responseTimeInMs > 3000
+| where path matches "*/api/data*"
+| count
